@@ -1,4 +1,4 @@
-# Tsunami-Coffee-Codecademy
+# Tsunami Coffee Codecademy
 This is a Codecademy challenge
 
 Use your knowledge of relative units and responsive web design to help Tsunami Coffee make their website come to life.
